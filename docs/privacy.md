@@ -80,4 +80,4 @@ If this policy changes, the "Last Updated" date will be revised.
 
 ## Contact
 
-For privacy questions, open an issue on our [GitHub repository](https://github.com/yourusername/convovault).
+For privacy questions, open an issue on our [GitHub repository](https://github.com/kavkrishapps/Convovault).
