@@ -1,10 +1,10 @@
 # Privacy Policy for ConvoVault: AI Chat Exporter
 
-**Last Updated: March 5, 2026**
+**Last Updated: March 24, 2026**
 
 ## Overview
 
-ConvoVault: AI Chat Exporter is a browser extension that lets users export conversations from supported AI chat websites (ChatGPT, Gemini, and Grok) to local JSON files. This Privacy Policy explains how we handle your data.
+ConvoVault: AI Chat Exporter is a browser extension that lets users export conversations from supported AI chat websites (ChatGPT, Gemini, Grok, and Claude AI) to local JSON files. This Privacy Policy explains how we handle your data.
 
 ## Data Collection and Usage
 
@@ -14,7 +14,7 @@ ConvoVault accesses the following data **only on the pages you visit**:
 
 | Data Type | Purpose |
 |-----------|---------|
-| **Website Content** | Chat messages displayed on ChatGPT (chatgpt.com), Gemini (gemini.google.com), and Grok (grok.com) that you choose to export |
+| **Website Content** | Chat messages displayed on ChatGPT (chatgpt.com), Gemini (gemini.google.com), Grok (grok.com), and Claude AI (claude.ai) that you choose to export |
 | **Browser Storage** | Local settings preferences (e.g., which metadata fields to include in exports) |
 
 ### How We Process Data
@@ -52,10 +52,8 @@ ConvoVault requests these permissions:
 
 | Permission | Purpose |
 |------------|---------|
-| `activeTab` | Access the current tab when user opens the popup or triggers export |
-| `scripting` | Inject export buttons into ChatGPT, Gemini, and Grok web pages |
 | `storage` | Save local export preferences and user settings |
-| Host permissions (`chatgpt.com/*`, `gemini.google.com/*`, `grok.com/*`) | Run only on these three supported domains |
+| Host permissions (`chatgpt.com/*`, `gemini.google.com/*`, `grok.com/*`, `claude.ai/*`) | Run only on these four supported domains |
 
 ## Security
 
@@ -72,7 +70,7 @@ ConvoVault does not integrate with or send data to any third-party services.
 
 ## Affiliation
 
-ConvoVault is an independent open-source tool and is **not affiliated with, endorsed by, or connected to OpenAI, Google, or xAI**.
+ConvoVault is an independent open-source tool and is **not affiliated with, endorsed by, or connected to OpenAI, Google, xAI, or Anthropic**.
 
 ## Changes to This Policy
 
